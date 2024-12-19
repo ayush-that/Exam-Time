@@ -51,6 +51,7 @@ export interface ExamSchedule {
   description: string;
   semester: string;
   academicYear: string;
+  department: string;
   createdAt: Date;
   updatedAt: Date;
   courses: Course[];
