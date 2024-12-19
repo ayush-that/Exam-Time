@@ -1,4 +1,5 @@
 export interface Course {
+  department: any;
   id: string;
   name: string;
   code: string;
