@@ -97,7 +97,7 @@ export function exportScheduleToExcel(schedule: ExamSchedule) {
   const facultyData = schedule.faculty.map((f) => [
     f.name,
     f.department,
-    f.maxInvigilationHours,
+    f.maxInvigilationHoursPerDay,
   ]);
   facultyData.unshift(facultyHeaders);
   const wsFaculty = XLSX.utils.aoa_to_sheet(facultyData);
