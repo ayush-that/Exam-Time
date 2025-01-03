@@ -23,10 +23,13 @@ export function exportScheduleToExcel(schedule: ExamSchedule) {
   const scheduleInfo = [
     ["Schedule Name", schedule.name],
     ["Description", schedule.description || ""],
-    ["Start Date", new Date(schedule.startDate).toLocaleDateString()],
-    ["End Date", new Date(schedule.endDate).toLocaleDateString()],
-    ["Exam Duration", `${schedule.examDurationHours} hours`],
-    ["Slots Per Day", schedule.slotsPerDay.toString()],
+    ["Academic Year", schedule.academicYear],
+    ["Semester", schedule.semester],
+    ["Department", schedule.department],
+    ["Status", schedule.status],
+    ["Courses", schedule.courses.length.toString()],
+    ["Faculty", schedule.faculty.length.toString()],
+    ["Rooms", schedule.rooms.length.toString()],
   ];
   const wsInfo = XLSX.utils.aoa_to_sheet(scheduleInfo);
   XLSX.utils.book_append_sheet(wb, wsInfo, "Schedule Info");
