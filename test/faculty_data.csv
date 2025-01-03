@@ -1,0 +1,501 @@
+Faculty ID,Name,Department,Max Hours Per Week
+F001,Wakeeta Mandal,Psychology,20
+F002,Unni Parmar,History,15
+F003,Nikita Hora,Computer Science,20
+F004,Maya Ahuja,Economics,18
+F005,Tristan Mandal,Biology,20
+F006,Gautam Arora,Biology,20
+F007,Isha Narayanan,Economics,18
+F008,Isaiah Dhingra,Psychology,20
+F009,Dakshesh Chacko,Mathematics,18
+F010,Leela Bora,Psychology,20
+F011,Robert Warrior,Biology,20
+F012,Riya Raj,Mathematics,18
+F013,George De,Physics,20
+F014,Owen Anand,Physics,20
+F015,Wyatt Kamdar,English,15
+F016,Yashica Kala,Chemistry,18
+F017,Meghana More,Biology,20
+F018,Upasna Tella,English,15
+F019,Barkha Nayak,Biology,20
+F020,Jyoti Buch,Biology,20
+F021,Dalaja Chandra,Computer Science,20
+F022,Abdul Oommen,Chemistry,18
+F023,Udarsh Vora,Biology,20
+F024,Aryan Modi,Mathematics,18
+F025,Bahadurjit Biswas,Mathematics,18
+F026,Wazir Minhas,Chemistry,18
+F027,Ridhi Sagar,Biology,20
+F028,Rayaan Sule,Psychology,20
+F029,Aditya Mukherjee,Economics,18
+F030,Watika Dash,Computer Science,20
+F031,Chavvi Dash,Computer Science,20
+F032,Ishita Mohanty,English,15
+F033,Indrajit Luthra,Biology,20
+F034,Max Pingle,Mathematics,18
+F035,Akshay Date,Biology,20
+F036,Gavin Bhatt,Chemistry,18
+F037,Amruta Saha,Chemistry,18
+F038,Ishita Deol,Biology,20
+F039,Daksha Date,Mathematics,18
+F040,Bishakha Sekhon,Biology,20
+F041,Ekaja Mandal,Chemistry,18
+F042,Daksh Ganesan,History,15
+F043,Bishakha Brar,Chemistry,18
+F044,Indira Krishna,Computer Science,20
+F045,Kavya Magar,Computer Science,20
+F046,Omkaar Maharaj,English,15
+F047,Xavier Vaidya,History,15
+F048,Yasti Rajagopal,Physics,20
+F049,Raghav Wadhwa,Physics,20
+F050,Siya Bains,English,15
+F051,Edhitha Oza,Psychology,20
+F052,Farhan Narasimhan,Economics,18
+F053,Sanaya Ben,Chemistry,18
+F054,Mohammed Goel,Physics,20
+F055,Falan Vyas,Economics,18
+F056,Bhanumati Badal,Mathematics,18
+F057,Geetika Ramaswamy,Biology,20
+F058,Rohan Bora,Computer Science,20
+F059,Yash Johal,Computer Science,20
+F060,Kamala Shan,History,15
+F061,Atharv Minhas,Mathematics,18
+F062,Kashvi Chaudhary,Biology,20
+F063,Prisha Kala,Biology,20
+F064,Janaki Bali,Mathematics,18
+F065,Raksha Tella,Biology,20
+F066,Samarth Aurora,Mathematics,18
+F067,Urishilla Shetty,Chemistry,18
+F068,Charles Tella,English,15
+F069,Upkaar Chana,History,15
+F070,Hemang Mitra,Physics,20
+F071,Kritika Tak,Chemistry,18
+F072,Pooja Lall,Biology,20
+F073,Benjamin Mallick,Chemistry,18
+F074,Gautam Mutti,Mathematics,18
+F075,Rachita Vaidya,Psychology,20
+F076,Nandini Chada,Chemistry,18
+F077,Laban Yogi,Biology,20
+F078,Yadavi Lad,Economics,18
+F079,Praneel Banik,Psychology,20
+F080,Sathvik Mallick,Computer Science,20
+F081,Ayush Tak,Biology,20
+F082,Amara Murty,Physics,20
+F083,Bhavna Tailor,Mathematics,18
+F084,Brijesh Vyas,Computer Science,20
+F085,Aahana Issac,Mathematics,18
+F086,Gabriel Sharma,Biology,20
+F087,Amruta Gera,Mathematics,18
+F088,Jatin Narang,Psychology,20
+F089,Jeevika Nagi,Chemistry,18
+F090,Rishi Bassi,Chemistry,18
+F091,Harini Ray,Psychology,20
+F092,Dakshesh Gopal,Computer Science,20
+F093,Deepa Mand,History,15
+F094,Ganga Magar,Economics,18
+F095,Dayita Ben,Economics,18
+F096,Chatresh Chandra,Computer Science,20
+F097,Kala Chad,Psychology,20
+F098,Ekta Murty,Computer Science,20
+F099,Ishaan Hegde,Chemistry,18
+F100,Vasatika Ram,Biology,20
+F101,Lakshit Date,History,15
+F102,Ekaraj Lalla,Psychology,20
+F103,Ira Madan,Economics,18
+F104,Upadhriti Ramakrishnan,Physics,20
+F105,Ria Balasubramanian,Computer Science,20
+F106,Zilmil Lala,Computer Science,20
+F107,Zilmil Padmanabhan,English,15
+F108,Manbir Seth,Economics,18
+F109,Shivani Dube,Chemistry,18
+F110,Vansha Mammen,Computer Science,20
+F111,Lavanya Luthra,Physics,20
+F112,Tanveer Natarajan,Economics,18
+F113,Yug Bhatt,Psychology,20
+F114,Darsh Vyas,Chemistry,18
+F115,Aradhana Sarkar,History,15
+F116,Tanvi Dewan,Economics,18
+F117,Krishna Pau,History,15
+F118,Akshay Saraf,Computer Science,20
+F119,Kamya Rana,Physics,20
+F120,Wakeeta Deep,English,15
+F121,Aditya Bhatia,Computer Science,20
+F122,Qushi Sankar,History,15
+F123,Avni Bawa,Psychology,20
+F124,Fariq Ramanathan,Computer Science,20
+F125,Sudiksha Muni,Physics,20
+F126,Garima Shankar,English,15
+F127,Yauvani Vora,Computer Science,20
+F128,Liam De,Economics,18
+F129,Ojasvi Misra,English,15
+F130,Zashil Apte,English,15
+F131,Irya Sagar,Biology,20
+F132,Dalaja Khosla,Computer Science,20
+F133,Aditya Samra,Mathematics,18
+F134,Falguni Mukhopadhyay,Physics,20
+F135,Odika Sarin,Computer Science,20
+F136,Qabil Dani,English,15
+F137,Nicholas Chaudhari,Computer Science,20
+F138,Balhaar Pai,English,15
+F139,Neelima Saxena,Chemistry,18
+F140,Eesha Kale,Computer Science,20
+F141,William Mahajan,History,15
+F142,Aarnav Dani,Biology,20
+F143,Orinder Bains,Mathematics,18
+F144,Chameli Lanka,English,15
+F145,Indrajit Wagle,Chemistry,18
+F146,Mahika Agrawal,History,15
+F147,Varsha Sampath,English,15
+F148,Darsh Kaul,Chemistry,18
+F149,Rachit Shroff,Mathematics,18
+F150,Wahab Wagle,English,15
+F151,Qushi Memon,Biology,20
+F152,Wahab Sunder,Economics,18
+F153,Mitesh Bawa,English,15
+F154,Chandran Soni,Mathematics,18
+F155,Advay Balan,Economics,18
+F156,Yoshita Master,Biology,20
+F157,Lajita Bajaj,Psychology,20
+F158,Faras Rajan,History,15
+F159,Gaurav Venkatesh,Economics,18
+F160,Wahab Pai,History,15
+F161,Abhimanyu Kalla,History,15
+F162,Chakradhar Mand,Economics,18
+F163,Yashica Peri,Psychology,20
+F164,Hardik Kashyap,Computer Science,20
+F165,Faris Ram,English,15
+F166,Yoshita Chaudhari,Biology,20
+F167,Warinder Comar,Psychology,20
+F168,Akshay Srinivasan,History,15
+F169,Sara Kapoor,History,15
+F170,Indira Amble,Economics,18
+F171,Urishilla Sarna,English,15
+F172,Ojasvi Wagle,Computer Science,20
+F173,Nilima Uppal,Psychology,20
+F174,Kala Behl,Psychology,20
+F175,Geetika Nayar,English,15
+F176,Saksham Randhawa,Mathematics,18
+F177,Dev Parekh,History,15
+F178,Yutika Kara,Psychology,20
+F179,Harini Swaminathan,Chemistry,18
+F180,Krishna Murthy,Physics,20
+F181,Qasim Sama,Computer Science,20
+F182,Maanav Tak,History,15
+F183,Niharika Ramakrishnan,Chemistry,18
+F184,Thomas Zacharia,Chemistry,18
+F185,Vrinda Peri,Chemistry,18
+F186,Faqid Barman,Biology,20
+F187,Hardik Balay,History,15
+F188,Jagrati Soman,Chemistry,18
+F189,Yatan Rai,Chemistry,18
+F190,Bishakha Golla,Chemistry,18
+F191,Daniel Palla,Chemistry,18
+F192,Turvi Kala,Economics,18
+F193,Hamsini Reddy,Economics,18
+F194,Imaran Balakrishnan,Computer Science,20
+F195,Chaitanya Konda,Physics,20
+F196,Baljiwan Kota,Biology,20
+F197,Gaurang Muni,Biology,20
+F198,Ranbir Kant,Computer Science,20
+F199,Rachita Gill,Physics,20
+F200,Chameli Saha,History,15
+F201,Theodore Hayre,Physics,20
+F202,Laksh Parsa,Biology,20
+F203,Anjali Bahri,Chemistry,18
+F204,Ekiya Bedi,Computer Science,20
+F205,Yasti Arya,Chemistry,18
+F206,Anika Mallick,Computer Science,20
+F207,Jagvi Rajagopalan,Physics,20
+F208,Forum Tiwari,Biology,20
+F209,Nidhi Bhatti,Physics,20
+F210,Bakhshi Banerjee,Psychology,20
+F211,Logan Ahluwalia,Mathematics,18
+F212,Jagrati Bhatt,Biology,20
+F213,Onkar Wagle,Chemistry,18
+F214,Charita Sangha,Biology,20
+F215,Fiyaz Baria,Computer Science,20
+F216,Arunima Jani,English,15
+F217,Nitesh Chada,English,15
+F218,Divya Murthy,Physics,20
+F219,Leela Sem,Mathematics,18
+F220,Saksham Choudhury,English,15
+F221,Tripti Hayer,Chemistry,18
+F222,Hitesh Wali,Chemistry,18
+F223,Ria Sarin,Chemistry,18
+F224,Udant Pandey,Physics,20
+F225,Sai Mitter,Psychology,20
+F226,Bhanumati Rattan,Economics,18
+F227,Christopher Nanda,Biology,20
+F228,Vedhika Grover,Economics,18
+F229,Advaith Deo,Economics,18
+F230,Hamsini Sunder,Physics,20
+F231,Chatresh Kamdar,Computer Science,20
+F232,Rajeshri Upadhyay,Physics,20
+F233,Chandran Swaminathan,History,15
+F234,Ishwar Oak,Chemistry,18
+F235,Timothy Chatterjee,English,15
+F236,Zayan Khare,Physics,20
+F237,Omaja Rajagopalan,Psychology,20
+F238,Shivani Barman,English,15
+F239,Tanveer Bir,Mathematics,18
+F240,Samesh Sampath,English,15
+F241,Lakshmi Ghosh,Psychology,20
+F242,Yashasvi Apte,Chemistry,18
+F243,Agastya Bir,Physics,20
+F244,Avni Pau,Mathematics,18
+F245,Hemangini Patla,Economics,18
+F246,Samar Mammen,Mathematics,18
+F247,Vrinda Cherian,Physics,20
+F248,Ladli Memon,Biology,20
+F249,Leela Badal,Physics,20
+F250,Abdul Patla,Mathematics,18
+F251,Damini Vyas,Biology,20
+F252,Aryan Parekh,Computer Science,20
+F253,Ikbal Mall,Physics,20
+F254,Bishakha Deep,Economics,18
+F255,Advay Grover,Economics,18
+F256,Gopal Mall,Mathematics,18
+F257,Janya Garg,Economics,18
+F258,Charles Dada,History,15
+F259,Hitesh Ahuja,English,15
+F260,Pallavi Karpe,Psychology,20
+F261,Chatresh Kaul,Psychology,20
+F262,Pooja Kant,Economics,18
+F263,Tanvi Trivedi,English,15
+F264,Ijaya Warrior,English,15
+F265,Nathan Dayal,Physics,20
+F266,Saanvi Tak,Physics,20
+F267,Warinder Ramanathan,English,15
+F268,Bahadurjit Lanka,Psychology,20
+F269,Yatan Chad,Physics,20
+F270,Anika Swaminathan,Mathematics,18
+F271,Jagrati Patel,Chemistry,18
+F272,Lucky Dalal,Physics,20
+F273,Barkha Sule,Physics,20
+F274,Liam Sandhu,Computer Science,20
+F275,Turvi Johal,Chemistry,18
+F276,Vaishnavi Borra,Physics,20
+F277,Jyoti Sengupta,Psychology,20
+F278,Raagini Kala,Computer Science,20
+F279,Upasna Aurora,History,15
+F280,Chatura Misra,English,15
+F281,Pranit Kamdar,Mathematics,18
+F282,Warhi Bahri,Physics,20
+F283,Samesh Palla,Biology,20
+F284,Ekanta Kulkarni,English,15
+F285,Saanvi Dua,Computer Science,20
+F286,Ekansh Shukla,Physics,20
+F287,Wridesh Pandya,History,15
+F288,Banjeet Choudhry,Computer Science,20
+F289,Omkaar Dyal,English,15
+F290,Krishna Sampath,Computer Science,20
+F291,Ekaraj Dube,Chemistry,18
+F292,Jasmit Madan,Computer Science,20
+F293,Charvi Bava,Computer Science,20
+F294,Zansi Bhatnagar,Psychology,20
+F295,Arya Padmanabhan,History,15
+F296,Ojasvi Prashad,Physics,20
+F297,Sathvik Nayak,Physics,20
+F298,Nidra Chanda,Psychology,20
+F299,Ubika Balay,Mathematics,18
+F300,Rudra Shere,History,15
+F301,Manan Handa,Physics,20
+F302,Daniel Thakur,History,15
+F303,Hritik Srinivas,Computer Science,20
+F304,Neel Sarma,English,15
+F305,Zaid Gour,History,15
+F306,Ekansh Gulati,Physics,20
+F307,Veer Subramanian,Mathematics,18
+F308,Avni Shan,Mathematics,18
+F309,Wakeeta Guha,English,15
+F310,Chatresh Sandal,History,15
+F311,Triya Barad,Psychology,20
+F312,Damini Ganguly,Biology,20
+F313,Jonathan Wadhwa,Mathematics,18
+F314,Mohammed Sachar,History,15
+F315,Ekantika Srinivasan,Economics,18
+F316,Janaki Murty,Physics,20
+F317,Ubika Nagi,Computer Science,20
+F318,Maanav Roy,Chemistry,18
+F319,Ayush Goda,Physics,20
+F320,Fariq Mander,English,15
+F321,Ishwar Swamy,Economics,18
+F322,Jagat Thaman,Physics,20
+F323,Vedant Borra,Biology,20
+F324,Saanvi Johal,Biology,20
+F325,Aditya Dhar,Biology,20
+F326,Saumya Varkey,Psychology,20
+F327,Akshay Ratta,Computer Science,20
+F328,Oliver Cheema,Economics,18
+F329,Yachana Barman,Biology,20
+F330,Isaac Tailor,Physics,20
+F331,Omkaar Raj,Biology,20
+F332,Dominic Sachar,English,15
+F333,Sanya Doshi,Computer Science,20
+F334,Lucky Seshadri,Computer Science,20
+F335,Lucky Das,Psychology,20
+F336,Tanay Ben,Economics,18
+F337,Anay Murthy,Computer Science,20
+F338,Wishi Mander,Psychology,20
+F339,Turvi Pai,History,15
+F340,Jagdish Lall,English,15
+F341,Tripti Swaminathan,English,15
+F342,Bhavna Datta,English,15
+F343,Wyatt Bath,Computer Science,20
+F344,Upasna Mukhopadhyay,Chemistry,18
+F345,Vedant Wason,Psychology,20
+F346,Rudra Rajagopalan,Biology,20
+F347,Dominic Chawla,Chemistry,18
+F348,Baljiwan Master,Chemistry,18
+F349,Aachal Arora,Biology,20
+F350,Arjun Grewal,Mathematics,18
+F351,Lakshmi Hans,English,15
+F352,Saumya Tank,English,15
+F353,Mohammed Modi,Computer Science,20
+F354,Maanas Bawa,Physics,20
+F355,Yatin Borde,Economics,18
+F356,Dominic Bhardwaj,Chemistry,18
+F357,Advik Bhatia,Economics,18
+F358,Yauvani Varghese,Physics,20
+F359,Ranveer Kota,Chemistry,18
+F360,Rishi Borah,Physics,20
+F361,Nandini Pant,Economics,18
+F362,Eshana Brar,Psychology,20
+F363,Fitan Issac,Computer Science,20
+F364,Vanya Virk,Biology,20
+F365,Faqid Saha,Psychology,20
+F366,Vinaya Anne,Psychology,20
+F367,Manan Khanna,Biology,20
+F368,Zilmil Grewal,Mathematics,18
+F369,Banjeet Ghose,Chemistry,18
+F370,Yachana Johal,English,15
+F371,Xalak Hayre,Chemistry,18
+F372,Abhimanyu Pathak,Mathematics,18
+F373,Patrick Hari,Economics,18
+F374,Ishita Madan,Physics,20
+F375,Daksh Kapoor,Computer Science,20
+F376,Triya Ravel,Computer Science,20
+F377,Wishi Nagi,Psychology,20
+F378,Jhalak Mahal,Mathematics,18
+F379,Nikita Khurana,Chemistry,18
+F380,Jagdish Trivedi,Computer Science,20
+F381,Sanaya Gandhi,Mathematics,18
+F382,Yutika Vohra,English,15
+F383,Wyatt Deshmukh,Biology,20
+F384,Ekta Subramaniam,Physics,20
+F385,Jagdish Guha,Biology,20
+F386,Maanas Ravel,Mathematics,18
+F387,Mohammed Chauhan,English,15
+F388,Amol Purohit,Computer Science,20
+F389,Charita Datta,Psychology,20
+F390,Onkar Chadha,Economics,18
+F391,Jackson Pillay,Economics,18
+F392,Samaksh Bobal,Psychology,20
+F393,Dalaja Borah,History,15
+F394,Urishilla Chakraborty,Physics,20
+F395,Triya Jain,History,15
+F396,Advay Chaudry,English,15
+F397,Omisha Dyal,Computer Science,20
+F398,Manthan Bhagat,Chemistry,18
+F399,Abhimanyu Borra,Mathematics,18
+F400,Tamanna Dayal,Chemistry,18
+F401,Nisha Sridhar,Biology,20
+F402,Kabir Soni,Mathematics,18
+F403,Maanas Halder,Mathematics,18
+F404,Sanya Wali,Chemistry,18
+F405,Hiral Vala,Physics,20
+F406,Aditya Chawla,History,15
+F407,Varenya Mistry,Psychology,20
+F408,Ikshita Aurora,Economics,18
+F409,Simon Behl,Chemistry,18
+F410,Geetika Pal,Mathematics,18
+F411,Zashil Kothari,Psychology,20
+F412,Sanya Walla,Chemistry,18
+F413,Pratyush Nayak,History,15
+F414,Ronith Lad,History,15
+F415,Yatan Mital,Chemistry,18
+F416,Vaishnavi Zachariah,Mathematics,18
+F417,Anika Morar,Chemistry,18
+F418,Theodore Choudhry,Biology,20
+F419,Eiravati Misra,Chemistry,18
+F420,Shivani Sami,History,15
+F421,Rudra Parikh,Economics,18
+F422,Guneet Dayal,History,15
+F423,Darika Divan,Economics,18
+F424,Faris Rastogi,History,15
+F425,Gayathri Gulati,English,15
+F426,Rudra Char,English,15
+F427,Praneel Muni,Chemistry,18
+F428,Vinaya Dass,Chemistry,18
+F429,Gaurav Bhasin,Mathematics,18
+F430,Ayushman Suresh,Biology,20
+F431,Leena Swaminathan,Computer Science,20
+F432,Christopher Nath,Economics,18
+F433,Ryan Aggarwal,Biology,20
+F434,Daniel Nazareth,Mathematics,18
+F435,Indira Sarin,Psychology,20
+F436,Anita Manda,History,15
+F437,Dominic Chatterjee,Chemistry,18
+F438,Finn Dara,English,15
+F439,Viraj Guha,Psychology,20
+F440,Vrinda Gupta,Computer Science,20
+F441,Imaran Kanda,Mathematics,18
+F442,Veda Patla,Biology,20
+F443,Gayathri Mann,Mathematics,18
+F444,Bhavani Chand,Physics,20
+F445,Yamini Keer,Biology,20
+F446,Abha Sundaram,Physics,20
+F447,Yuvraj Mohanty,History,15
+F448,Chanakya Mitra,Computer Science,20
+F449,Oeshi Badal,Mathematics,18
+F450,Qasim Jani,Chemistry,18
+F451,Januja Bahl,Biology,20
+F452,Yauvani Samra,History,15
+F453,Anita Wadhwa,Chemistry,18
+F454,Krishna Tella,Mathematics,18
+F455,Hitesh Gaba,Psychology,20
+F456,Agastya Dash,Biology,20
+F457,Odika Naidu,Economics,18
+F458,Alexander Pillay,Psychology,20
+F459,Bhavya Sen,History,15
+F460,Krishna Sharma,Physics,20
+F461,Hritik Mand,Chemistry,18
+F462,Sudiksha Basak,Economics,18
+F463,Manthan Dar,Physics,20
+F464,Omya Nori,Chemistry,18
+F465,Lohit Bhandari,Physics,20
+F466,Janya Bumb,Mathematics,18
+F467,Ethan Minhas,English,15
+F468,Tarak Dass,Computer Science,20
+F469,Vanya Sidhu,English,15
+F470,Oeshi Parsa,Chemistry,18
+F471,Nikita Datta,History,15
+F472,Xalak Dasgupta,Mathematics,18
+F473,Qarin Suri,Physics,20
+F474,Eta Chandra,Biology,20
+F475,Alka Panchal,Chemistry,18
+F476,Panini Mann,Mathematics,18
+F477,Wyatt Iyengar,History,15
+F478,Nimrat Jhaveri,Psychology,20
+F479,Yoshita Karan,Biology,20
+F480,Omya Patla,Physics,20
+F481,Avni Kumer,History,15
+F482,Charvi Jha,Psychology,20
+F483,Ishanvi Thaker,Biology,20
+F484,Ekta Krishnamurthy,Computer Science,20
+F485,Edhitha Mohanty,Computer Science,20
+F486,Neelima Sha,Mathematics,18
+F487,Ladli Ramaswamy,Economics,18
+F488,Mitesh Rattan,Chemistry,18
+F489,Yash Narayanan,History,15
+F490,Triveni Prashad,Chemistry,18
+F491,Nisha Khurana,Mathematics,18
+F492,Aarini Saran,Biology,20
+F493,Krisha Lalla,History,15
+F494,Eshana Grewal,Economics,18
+F495,Abeer Nath,Economics,18
+F496,Aradhana Oommen,Chemistry,18
+F497,Idika Varty,Chemistry,18
+F498,Urvashi Doshi,History,15
+F499,Watika Nagy,Economics,18
+F500,Gautam More,Physics,20

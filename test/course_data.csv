@@ -1,0 +1,197 @@
+Course Code,Course Name,Credits
+CS101,Introduction to Computer Science,45
+MATH201,Calculus I,80
+ENG102,Academic Writing,45
+PHY201,Physics I,80
+CHEM101,General Chemistry,80
+BIO101,Introduction to Biology,80
+CS201,Data Structures,45
+HIST101,World History,45
+ECON201,Microeconomics,45
+PSY101,Introduction to Psychology,45
+CS102,Programming Fundamentals,45
+MATH202,Linear Algebra,80
+ENG103,Technical Writing,45
+PHY202,Electricity and Magnetism,80
+CHEM102,Organic Chemistry,80
+BIO102,Human Anatomy,80
+CS202,Discrete Mathematics,45
+HIST102,Modern History,45
+ECON202,Macroeconomics,45
+PSY102,Developmental Psychology,45
+CS203,Software Engineering,45
+MATH301,Probability and Statistics,80
+ENG201,Creative Writing,45
+PHY203,Quantum Mechanics,80
+CHEM103,Biochemistry,80
+BIO103,Ecology,80
+CS301,Operating Systems,45
+HIST103,Ancient Civilizations,45
+ECON301,International Economics,45
+PSY201,Social Psychology,45
+CS302,Database Systems,45
+MATH303,Differential Equations,80
+ENG202,Poetry,45
+PHY204,Classical Mechanics,80
+CHEM104,Analytical Chemistry,80
+BIO104,Molecular Biology,80
+CS303,Computer Networks,45
+HIST104,American History,45
+ECON302,Public Economics,45
+PSY301,Cognitive Psychology,45
+CS304,Artificial Intelligence,45
+MATH304,Complex Analysis,80
+ENG203,Short Story Writing,45
+PHY205,Electromagnetic Waves,80
+CHEM105,Environmental Chemistry,80
+BIO105,Genetics,80
+CS305,Web Development,45
+HIST105,European History,45
+ECON303,Development Economics,45
+PSY302,Behavioral Psychology,45
+CS306,Mobile App Development,45
+MATH305,Mathematical Modelling,80
+ENG204,Public Speaking,45
+PHY206,Nuclear Physics,80
+CHEM106,Industrial Chemistry,80
+BIO106,Immunology,80
+CS307,Machine Learning,45
+HIST106,History of Art,45
+ECON304,Econometrics,45
+PSY303,Neuropsychology,45
+CS308,Human-Computer Interaction,45
+MATH306,Real Analysis,80
+ENG205,Journalism,45
+PHY207,Astrophysics,80
+CHEM107,Inorganic Chemistry,80
+BIO107,Physiology,80
+CS309,Cloud Computing,45
+HIST107,World War I & II,45
+ECON305,Monetary Economics,45
+PSY304,Clinical Psychology,45
+CS310,Cybersecurity,45
+MATH307,Abstract Algebra,80
+ENG206,Film Studies,45
+PHY208,Statistical Mechanics,80
+CHEM108,Food Chemistry,80
+BIO108,Marine Biology,80
+CS311,Data Science,45
+HIST108,Revolutionary Movements,45
+ECON306,Environmental Economics,45
+PSY305,Forensic Psychology,45
+CS312,Blockchain Technology,45
+MATH308,Topology,80
+ENG207,Creative Nonfiction,45
+PHY209,Fluid Mechanics,80
+CHEM109,Pharmaceutical Chemistry,80
+BIO109,Zoology,80
+CS313,Computer Graphics,45
+HIST109,History of Science,45
+ECON307,Health Economics,45
+PSY306,Personality Psychology,45
+CS314,Data Visualization,45
+MATH309,Number Theory,80
+ENG208,Drama,45
+PHY210,Thermodynamics,80
+CHEM110,Solid State Chemistry,80
+BIO110,Genomics,80
+CS315,Cloud Architecture,45
+HIST110,Political History,45
+ECON308,Urban Economics,45
+PSY307,Psychopathology,45
+CS316,Computational Biology,45
+MATH310,Mathematical Logic,80
+ENG209,Creative Process,45
+PHY211,Geophysics,80
+CHEM111,Polymer Chemistry,80
+BIO111,Neurobiology,80
+CS317,Virtual Reality,45
+HIST111,Colonialism and Its Impact,45
+ECON309,Behavioral Economics,45
+PSY308,Cultural Psychology,45
+CS318,Augmented Reality,45
+MATH311,Optimization Theory,80
+ENG210,Creative Arts,45
+PHY212,Particle Physics,80
+CHEM112,Environmental Chemistry,80
+BIO112,Botany,80
+CS319,Digital Signal Processing,45
+HIST112,Modern Political Movements,45
+ECON310,Game Theory,45
+PSY309,Educational Psychology,45
+CS320,Quantum Computing,45
+MATH312,Financial Mathematics,80
+ENG211,Translation Studies,45
+PHY213,Solid-State Physics,80
+CHEM113,Computational Chemistry,80
+BIO113,Entomology,80
+CS321,Robotics,45
+HIST113,Medieval History,45
+ECON311,International Trade,45
+PSY310,Health Psychology,45
+CS322,IoT (Internet of Things),45
+MATH313,Mathematical Finance,80
+ENG212,Digital Media,45
+PHY214,Plasma Physics,80
+CHEM114,Green Chemistry,80
+BIO114,Microbiology,80
+CS323,Big Data,45
+HIST114,Historical Geography,45
+ECON312,Public Policy,45
+PSY311,Positive Psychology,45
+CS324,Edge Computing,45
+MATH314,Calculus III,80
+ENG213,Professional Writing,45
+PHY215,Medical Physics,80
+CHEM115,Environmental Toxicology,80
+BIO115,Pharmacology,80
+CS325,Natural Language Processing,45
+HIST115,Early Modern History,45
+ECON313,Labor Economics,45
+PSY312,Experimental Psychology,45
+CS326,Autonomous Vehicles,45
+MATH315,Mathematical Logic,80
+ENG214,Creative Writing II,45
+PHY216,Astronomy,80
+CHEM116,Analytical Chemistry II,80
+BIO116,Cell Biology,80
+CS327,Smart Cities,45
+HIST116,Philosophy and History,45
+ECON314,Macroeconomic Theory,45
+PSY313,Cognitive Neuroscience,45
+CS328,Augmented Intelligence,45
+MATH316,Applied Mathematics,80
+ENG215,Poetry Writing,45
+PHY217,Climate Physics,80
+CHEM117,Material Science,80
+BIO117,Ecological Studies,80
+CS329,Data Mining,45
+HIST117,Global History,45
+ECON315,Political Economy,45
+PSY314,Neuroscience,45
+CS330,Computational Linguistics,45
+MATH317,Operations Research,80
+ENG216,Writing for Media,45
+PHY218,Geology,80
+CHEM118,Biotechnology,80
+BIO118,Physiological Psychology,80
+CS331,AI in Healthcare,45
+HIST118,World Politics,45
+ECON316,Financial Economics,45
+PSY315,Clinical Psychopharmacology,45
+CS332,Computational Chemistry,45
+MATH318,Game Theory,80
+ENG217,Script Writing,45
+PHY219,Oceanography,80
+CHEM119,Environmental Engineering,80
+BIO119,Genetics and Evolution,80
+CS333,Speech Recognition,45
+HIST119,History of Philosophy,45
+ECON317,Health Economics II,45
+PSY316,Social Cognitive Neuroscience,45
+CS334,AI Ethics,45
+MATH319,Actuarial Science,80
+ENG218,Creative Writing III,45
+PHY220,Space Science,80
+CHEM120,Nano Chemistry,80
+BIO120,Neuroscience II,80
