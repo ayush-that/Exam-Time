@@ -245,7 +245,7 @@ export function DataEntryForm({ onSubmit }: DataEntryFormProps) {
     <form onSubmit={handleSubmit} className="space-y-6">
       <Card className="p-6">
         <div className="space-y-4">
-          <div className="flex justify-between items-center">
+          <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-6">
             <h3 className="text-lg font-semibold">Schedule Details</h3>
             <Button type="button" variant="outline" onClick={loadExampleData}>
               Load Example Data
@@ -274,7 +274,7 @@ export function DataEntryForm({ onSubmit }: DataEntryFormProps) {
               />
             </div>
 
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid gap-4 sm:grid-cols-2">
               <div className="space-y-2">
                 <Label htmlFor="startDate">Start Date</Label>
                 <Input
@@ -298,7 +298,7 @@ export function DataEntryForm({ onSubmit }: DataEntryFormProps) {
               </div>
             </div>
 
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid gap-4 sm:grid-cols-2">
               <div className="space-y-2">
                 <Label htmlFor="examDurationHours">Exam Duration (hours)</Label>
                 <Input
@@ -330,32 +330,23 @@ export function DataEntryForm({ onSubmit }: DataEntryFormProps) {
               </div>
             </div>
 
-            <div className="space-y-4">
+            <div className="space-y-2">
               <Label>Skip Dates</Label>
-              <div className="grid grid-cols-3 gap-4">
-                <div>
+              <div className="grid gap-4 sm:grid-cols-2">
+                <Input
+                  type="date"
+                  value={newSkipDate}
+                  onChange={(e) => setNewSkipDate(e.target.value)}
+                  placeholder="Select date"
+                />
+                <div className="flex gap-2">
                   <Input
-                    type="date"
-                    value={newSkipDate}
-                    onChange={(e) => setNewSkipDate(e.target.value)}
-                    min={startDate}
-                    max={endDate}
-                  />
-                </div>
-                <div>
-                  <Input
-                    placeholder="Reason (optional)"
                     value={newSkipReason}
                     onChange={(e) => setNewSkipReason(e.target.value)}
+                    placeholder="Reason (optional)"
                   />
-                </div>
-                <div>
-                  <Button
-                    type="button"
-                    onClick={handleAddSkipDate}
-                    variant="outline"
-                  >
-                    Add Skip Date
+                  <Button type="button" onClick={handleAddSkipDate}>
+                    Add
                   </Button>
                 </div>
               </div>
@@ -387,7 +378,7 @@ export function DataEntryForm({ onSubmit }: DataEntryFormProps) {
               )}
             </div>
 
-            <div className="grid gap-4 md:grid-cols-2">
+            <div className="grid gap-6 md:grid-cols-2">
               <CourseDataEntry
                 onDataLoaded={setCourses}
                 initialData={courses}
