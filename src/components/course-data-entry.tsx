@@ -91,7 +91,7 @@ export function CourseDataEntry({
 Course Code,Course Name,Credits
 CS101,Introduction to Programming,45
 CS102,Data Structures,55"
-        className="font-mono text-sm h-[120px]"
+        className="font-mono text-sm h-[150px] sm:h-[120px]"
       />
     </div>
   );
