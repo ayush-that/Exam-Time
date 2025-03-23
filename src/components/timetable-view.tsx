@@ -204,7 +204,7 @@ export function TimetableView({ schedule }: TimetableViewProps) {
       </div>
 
       {sortedDates.map((dateStr) => (
-        <Card key={dateStr} className="p-6 -mx-8 sm:-mx-none">
+        <Card key={dateStr} className="p-6 -mx-8 sm:-mx-0">
           <h3 className="text-lg font-semibold mb-4">{dateStr}</h3>
           <div className="space-y-4">
             {examsByDate[dateStr].map((exam: any, index: number) => {
