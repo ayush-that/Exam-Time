@@ -184,7 +184,7 @@ export function TimetableView({ schedule }: TimetableViewProps) {
 
   return (
     <div className="space-y-6">
-      <div className="flex justify-between items-center">
+      <div className="flex flex-col gap-6 sm:gap-0 sm:flex-row justify-between items-center">
         <div>
           <h2 className="text-2xl font-bold">{schedule.name}</h2>
           {schedule.description && (
@@ -204,7 +204,7 @@ export function TimetableView({ schedule }: TimetableViewProps) {
       </div>
 
       {sortedDates.map((dateStr) => (
-        <Card key={dateStr} className="p-6">
+        <Card key={dateStr} className="p-6 -mx-8 sm:-mx-0">
           <h3 className="text-lg font-semibold mb-4">{dateStr}</h3>
           <div className="space-y-4">
             {examsByDate[dateStr].map((exam: any, index: number) => {
@@ -219,7 +219,7 @@ export function TimetableView({ schedule }: TimetableViewProps) {
               return (
                 <div
                   key={`${dateStr}-${index}`}
-                  className="grid grid-cols-4 gap-4 p-4 bg-muted rounded-lg"
+                  className="flex flex-col sm:grid sm:grid-cols-4 gap-2 sm:gap-4 p-4 bg-muted rounded-lg"
                 >
                   <div>
                     <p className="font-medium">Time</p>
