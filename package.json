@@ -49,7 +49,7 @@
     "tsparticles": "^3.7.1",
     "tsparticles-slim": "^2.12.0",
     "xlsx": "^0.18.5",
-    "zod": "^3.24.1"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@shadcn/ui": "^0.0.4",
